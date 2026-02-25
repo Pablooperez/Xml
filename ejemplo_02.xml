@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<WODS>
+    <Rutina>
+        <Nombre>Baseline</Nombre>
+        <Ejercicio_1>
+            <Nombre>Remo</Nombre>
+            <Repeticiones>500 metros</Repeticiones>
+        </Ejercicio_1>
+        <Ejercicio_2>
+            <Nombre>Sentadilla Aérea</Nombre>
+            <Repeticiones>40</Repeticiones>
+        </Ejercicio_2>
+        <Ejercicio_3>
+            <Nombre>Abdominales</Nombre>
+            <Repeticiones>30</Repeticiones>
+        </Ejercicio_3>
+        <Ejercicio_4>
+            <Nombre>Flexiones</Nombre>
+            <Repeticiones>20</Repeticiones>
+        </Ejercicio_4>
+        <Ejericicio_5>
+            <Nombre>Dominadas</Nombre>
+            <Repeticiones>10</Repeticiones>
+        </Ejericicio_5>
+    </Rutina>
+    <Rutina>
+        <Nombre>La matadora</Nombre>
+        <Ejercicio_1>
+            <Nombre>Carrera</Nombre>
+            <Repeticiones>400 metros</Repeticiones>
+        </Ejercicio_1>
+        <Ejercicio_2>
+            <Nombre>Zancadas</Nombre>
+            <Repeticiones>40</Repeticiones>
+        </Ejercicio_2>
+        <Ejercicio_3>
+            <Nombre>Kettlebell Swings</Nombre>
+            <Repeticiones>30</Repeticiones>
+        </Ejercicio_3>
+        <Ejercicio_4>
+            <Nombre>Burpees</Nombre>
+            <Repeticiones>20</Repeticiones>
+        </Ejercicio_4>
+        <Ejercicio_5>
+            <Nombre>Plancha Abdominal</Nombre>
+            <Repeticiones>30 Segundos</Repeticiones>
+        </Ejercicio_5>
+    </Rutina>
+</WODS>

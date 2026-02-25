@@ -9,6 +9,7 @@
         <Editorial>Libroslibros</Editorial>
         <Web_Referencia>https://www.philosophia.cl/biblioteca/orwell/1984.pdf</Web_Referencia>
         <Formato>PDF</Formato>
+        <Idioma>Español</Idioma>
     </Libro>
     <Libro>
         <Título>La asistenta</Título>
@@ -16,6 +17,7 @@
         <Editorial>Comprame</Editorial>
         <Web_Referencia>https://www.casadellibro.com/libro-la-asistenta/9788491294283/13931484</Web_Referencia>
         <Formato>Impreso</Formato>
+        <Idioma>Español</Idioma>
     </Libro>
     <Libro>
         <Título>El codigo da vinci libro</Título>
@@ -23,6 +25,7 @@
         <Editorial>Medialuna</Editorial>
         <Web_Referencia>https://www.amazon.es/C%C3%B3digo-Vinci-Bestseller-Dan-Brown/dp/8408095331</Web_Referencia>
         <Formato>Impreso</Formato>
+        <Idioma>Español</Idioma>
     </Libro>
     <Libro>
         <Título>Harry potter y el cadiz de fuego</Título>
@@ -30,5 +33,6 @@
         <Editorial>Sueños</Editorial>
         <Web_Referencia>https://www.amazon.es/edici%C3%B3n-portada-ilustrada-Dolores-Avenda%C3%B1o/dp/8478886451</Web_Referencia>
         <Formato>Impreso</Formato>
+        <Idioma>Español</Idioma>
     </Libro>
 </Catalogo>
