@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <WODS>
-    <Rutina>
-        <Nombre>Baseline</Nombre>
+    <Rutina nombre="Baseline">
         <Ejercicio_1>
             <Nombre>Remo</Nombre>
             <Repeticiones>500 metros</Repeticiones>
@@ -24,8 +23,7 @@
             <Repeticiones>10</Repeticiones>
         </Ejericicio_5>
     </Rutina>
-    <Rutina>
-        <Nombre>La matadora</Nombre>
+    <Rutina nombre="La matadora">
         <Ejercicio_1>
             <Nombre>Carrera</Nombre>
             <Repeticiones>400 metros</Repeticiones>
