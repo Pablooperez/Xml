@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Define un DTD para el elemento perro que tiene una estructura que almacena el nombre y edad del perro. -->
+
+<!DOCTYPE perros [
+        <!ELEMENT perros (perro*)>
+        <!ELEMENT perro (nombre,edad)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT edad (#PCDATA)>
+        ]>
+
+<perros>
+    <perro>
+        <nombre>Luna</nombre>
+        <edad>14</edad>
+    </perro>
+</perros>
+
+

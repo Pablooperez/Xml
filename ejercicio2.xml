@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE correos [
+        <!ELEMENT correos (carta*)>
+        <!ELEMENT carta (emisor, destinatario, dirección, provincia, codigo-postal?)>
+        <!ELEMENT emisor (#PCDATA)>
+        <!ELEMENT destinatario (#PCDATA)>
+        <!ELEMENT dirección (#PCDATA)>
+        <!ELEMENT provincia (#PCDATA)>
+        <!ELEMENT codigo-postal (#PCDATA)>
+        ]>
+
+<correos>
+    <carta>
+        <emisor>Juan Garcia</emisor>
+        <destinatario>Lucia</destinatario>
+        <dirección>FP</dirección>
+        <provincia>Valencia</provincia>
+        <codigo-postal>46001</codigo-postal>
+    </carta>
+    <carta>
+        <emisor>Rosalia</emisor>
+        <destinatario>Andrea</destinatario>
+        <dirección>FP1</dirección>
+        <provincia>Madrid</provincia>
+        <codigo-postal/>
+    </carta>
+</correos>
